@@ -1,0 +1,33 @@
+{
+  "name": "Mousing",
+  "tagline": "A Place Worth Coming Back To.",
+  "category": "restaurant",
+  "description": "A restaurant and dining brand for menus, reservations, locations, events, catering, and hospitality storytelling.",
+  "colors": [
+    "#1a1410",
+    "#fff8ee",
+    "#ff835f",
+    "#f3c15e",
+    "#af9d8f",
+    "#251c17"
+  ],
+  "website": "https://mousing-dk.github.io/",
+  "principles": [
+    "hospitality",
+    "taste",
+    "place",
+    "service"
+  ],
+  "support": {
+    "email": null,
+    "phone": null,
+    "salesPhone": null,
+    "businessPhone": null,
+    "hours": null,
+    "center": "https://mousing-dk.github.io/support.html"
+  },
+  "privacy": {
+    "connectedAccountEmailPublished": false
+  },
+  "telnyxMode": false
+}
